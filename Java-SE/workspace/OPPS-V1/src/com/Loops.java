@@ -24,6 +24,9 @@ public class Loops {
 		
 		System.out.println("------------------");
 		System.out.println("------------------");
+		System.out.println("------------------");
+		System.out.println("------------------");
+		
 		i=1;
 		do {
 			System.out.println(i);
